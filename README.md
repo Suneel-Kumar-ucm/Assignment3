@@ -1,5 +1,11 @@
 # Assignment3
 
+name: suneel kumar reddy katikareddy
+student id: 700756639
+user id: sxk66390
+
+Drive link: https://drive.google.com/file/d/1O7BeiDdXtjrPBwbKR6gtXX7Zy1LIQ7NT/view?usp=drive_link
+
 Create a class Employee and then do the following • Create a data member to count the number of Employees • Create a constructor to initialize name, family, salary, department • Create a function to average salary • Create a Fulltime Employee class and it should inherit the properties of Employee class • Create the instances of Fulltime Employee class and Employee class and call their member functions.
 SOLUTION: -->We have created the generic class with name, family, salary and department 
 -->And created a data member inorder to counting the number of employees(count_of_employees) 
