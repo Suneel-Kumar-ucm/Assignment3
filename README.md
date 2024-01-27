@@ -12,7 +12,8 @@ SOLUTION: -->We have created the generic class with name, family, salary and dep
 Here is the output of the code: 
 
 The count of an employee is :
-4 Average salary of an employee is: 148750.0
+![image](https://github.com/Suneel-Kumar-ucm/Assignment3/assets/156639138/2a9d5b51-c77d-47fa-85a7-69f8be5d0d54)
+
 
 2.Using NumPy create random vector of size 20 having only float in the range 1-20. Then reshape the array to 4 by 5 Then replace the max in each row by 0 (axis=1)
 
@@ -22,3 +23,5 @@ SOLUTION: -->In this numpy python program we have imported the numpy package ino
 -->And then reshaping the array to 4 by 5 by using the reshape(). -->Moreover, replacing the maximum value in each row by zero.
 
 Here is the output of the code: 
+![image](https://github.com/Suneel-Kumar-ucm/Assignment3/assets/156639138/8314e8a5-7b16-43b9-a5e6-82a5f7a98f4a)
+
