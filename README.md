@@ -23,5 +23,6 @@ SOLUTION: -->In this numpy python program we have imported the numpy package ino
 -->And then reshaping the array to 4 by 5 by using the reshape(). -->Moreover, replacing the maximum value in each row by zero.
 
 Here is the output of the code: 
-![image](https://github.com/Suneel-Kumar-ucm/Assignment3/assets/156639138/8314e8a5-7b16-43b9-a5e6-82a5f7a98f4a)
+![image](https://github.com/Suneel-Kumar-ucm/Assignment3/assets/156639138/4e231c6d-eedd-4a62-bf46-f04d25b67ce6)
+
 
